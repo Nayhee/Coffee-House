@@ -13,5 +13,28 @@ body {
     border: 1px dotted black;
     margin: 5px;
     background-color: rgb(146, 134, 134);
-    color: beige;
+    color: rgb(245, 245, 219);
+}
+
+.shop h3 {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.shop p {
+    display: flex;
+    justify-content: center;
+}
+
+.menuWebsite {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 3px;
+}
+
+.pageHeader h1 {
+    display: flex;
+    justify-content: center;
 }
