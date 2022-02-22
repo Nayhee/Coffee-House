@@ -10,10 +10,11 @@ body {
 
 .shop {
     width: 30%;
-    border: 1px dotted black;
-    margin: 5px;
+    border: 3px solid rgb(102, 97, 97);
+    border-radius: 3px;
+    margin: 6px;
     background-color: rgb(146, 134, 134);
-    color: rgb(245, 245, 219);
+    color: white;
 }
 
 .shop h3 {
@@ -26,6 +27,8 @@ body {
 .shop p {
     display: flex;
     justify-content: center;
+    font-style: italic;
+    opacity: 80%;
 }
 
 .menuWebsite {
