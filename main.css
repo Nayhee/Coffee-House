@@ -22,6 +22,7 @@ body {
     justify-content: center;
     text-decoration: underline;
     font-weight: bold;
+    margin-bottom: 8px;
 }
 
 .shop p {
@@ -29,15 +30,16 @@ body {
     justify-content: center;
     font-style: italic;
     opacity: 80%;
+    margin: 4px;
 }
 
 .menuWebsite {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 3px;
+    margin-bottom: 5px;
 }
 
-.pageHeader h1 {
+.pageHeader {
     display: flex;
     justify-content: center;
 }
